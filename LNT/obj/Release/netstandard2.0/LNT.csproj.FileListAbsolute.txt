@@ -1,0 +1,16 @@
+C:\Users\RajAditya\Desktop\Starland Test Project\LNT\LNT\bin\Release\netstandard2.0\LNT.deps.json
+C:\Users\RajAditya\Desktop\Starland Test Project\LNT\LNT\bin\Release\netstandard2.0\LNT.dll
+C:\Users\RajAditya\Desktop\Starland Test Project\LNT\LNT\bin\Release\netstandard2.0\LNT.pdb
+C:\Users\RajAditya\Desktop\Starland Test Project\LNT\LNT\obj\Release\netstandard2.0\LNT.csproj.AssemblyReference.cache
+C:\Users\RajAditya\Desktop\Starland Test Project\LNT\LNT\obj\Release\netstandard2.0\LNT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RajAditya\Desktop\Starland Test Project\LNT\LNT\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\RajAditya\Desktop\Starland Test Project\LNT\LNT\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\RajAditya\Desktop\Starland Test Project\LNT\LNT\obj\Release\netstandard2.0\Page1.xaml.g.cs
+C:\Users\RajAditya\Desktop\Starland Test Project\LNT\LNT\obj\Release\netstandard2.0\LNT.AssemblyInfoInputs.cache
+C:\Users\RajAditya\Desktop\Starland Test Project\LNT\LNT\obj\Release\netstandard2.0\LNT.AssemblyInfo.cs
+C:\Users\RajAditya\Desktop\Starland Test Project\LNT\LNT\obj\Release\netstandard2.0\LNT.csproj.CoreCompileInputs.cache
+C:\Users\RajAditya\Desktop\Starland Test Project\LNT\LNT\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\RajAditya\Desktop\Starland Test Project\LNT\LNT\obj\Release\netstandard2.0\LNT.dll
+C:\Users\RajAditya\Desktop\Starland Test Project\LNT\LNT\obj\Release\netstandard2.0\refint\LNT.dll
+C:\Users\RajAditya\Desktop\Starland Test Project\LNT\LNT\obj\Release\netstandard2.0\LNT.pdb
+C:\Users\RajAditya\Desktop\Starland Test Project\LNT\LNT\obj\Release\netstandard2.0\ref\LNT.dll

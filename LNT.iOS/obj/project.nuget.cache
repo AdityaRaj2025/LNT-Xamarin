@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "aRNxGcn5XszrHTiobDA3RbzVQ3uhG1s92Rb8lo2OGRLsgQOa1a3i/UiO0+TFDnbnz9WrEU2pL5Wgu8hPK+lKfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RajAditya\\Desktop\\Starland Test Project\\LNT\\LNT.iOS\\LNT.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RajAditya\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\RajAditya\\.nuget\\packages\\plugin.localnotification\\9.2.0\\plugin.localnotification.9.2.0.nupkg.sha512",
+    "C:\\Users\\RajAditya\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\RajAditya\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\RajAditya\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
