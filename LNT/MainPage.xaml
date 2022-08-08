@@ -3,24 +3,22 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="LNT.MainPage" NavigationPage.HasNavigationBar="True">
 
-        <StackLayout>
-
-            <StackLayout>
-                <Label Text="Be Happy" TextColor="Red" HorizontalOptions="Center" VerticalOptions="Start" />
-                <Label Text="This article is about the online encyclopedia." TextColor="Red" HorizontalOptions="Center" VerticalOptions="Start" />
-                <Button Text="Test" HorizontalOptions="Center" VerticalOptions="Start"  />
-                <Label Text="Test" TextColor="Red" HorizontalOptions="Center" VerticalOptions="Start" />
-                <Label Text="This article is about the online encyclopedia." TextColor="Red" HorizontalOptions="Center" VerticalOptions="Start" />
-                <Button Text="Wikipedia" HorizontalOptions="Center" VerticalOptions="Start"  />
-                <Label Text="Test" TextColor="Red" HorizontalOptions="Center" VerticalOptions="Start" />
-                <Label Text="This article is about the online encyclopedia." TextColor="Red" HorizontalOptions="Center" VerticalOptions="Start" />
-                <Button Text="Wikipedia" HorizontalOptions="Center" VerticalOptions="Start"  />
-                <Label Text="Test" TextColor="Red" HorizontalOptions="Center" VerticalOptions="Start" />
-                <Label Text="This article is about the online encyclopedia." TextColor="Red" HorizontalOptions="Center" VerticalOptions="Start" />
-                <Button Text="Test" HorizontalOptions="Center" VerticalOptions="Start"  />
-            </StackLayout>
-
-        <StackLayout x:Name="webview"  BackgroundColor="Red" HeightRequest="1000" />
+        <StackLayout VerticalOptions="FillAndExpand" x:Name="stacklayout">
+        <StackLayout x:Name="stack">
+            <Label Text="Be Happy" TextColor="Red" HorizontalOptions="Center" VerticalOptions="Start" />
+            <Label Text="Schedule a local notification for in 10 seconds time." TextColor="Red" HorizontalOptions="Center" VerticalOptions="Start" />
+            <Button Text="Create Notification" HorizontalOptions="Center" VerticalOptions="Start" />
+            <Label Text="Be Happy" TextColor="Red" HorizontalOptions="Center" VerticalOptions="Start" />
+            <Label Text="Schedule a local notification for in 10 seconds time." TextColor="Red" HorizontalOptions="Center" VerticalOptions="Start" />
+            <Button Text="Create Notification" HorizontalOptions="Center" VerticalOptions="Start" />
+            <Label Text="Be Happy" TextColor="Red" HorizontalOptions="Center" VerticalOptions="Start" />
+            <Label Text="Schedule a local notification for in 10 seconds time." TextColor="Red" HorizontalOptions="Center" VerticalOptions="Start" />
+            <Button Text="Create Notification" HorizontalOptions="Center" VerticalOptions="Start" />
+            <Label Text="Be Happy" TextColor="Red" HorizontalOptions="Center" VerticalOptions="Start" />
+            <Label Text="Schedule a local notification for in 10 seconds time." TextColor="Red" HorizontalOptions="Center" VerticalOptions="Start" />
+            <Button Text="Create Notification" HorizontalOptions="Center" VerticalOptions="Start" />
         </StackLayout>
+        <StackLayout x:Name="webview" BackgroundColor="Red" />
+    </StackLayout>
 
 </ContentPage>
