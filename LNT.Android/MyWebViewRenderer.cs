@@ -24,17 +24,22 @@ namespace LNT.Droid
        
         class ExtendedWebViewClient : Android.Webkit.WebViewClient
         {
-            public override async void OnPageFinished(WebView view, string url)
+             public override bool ShouldOverrideUrlLoading(WebView view, string url)
             {
-                if (_xwebView != null)
+                var tel = "tel:";
+                if (url != null)
                 {
-                    int i = 10;
-                    while (view.ContentHeight == 0 && i-- > 0) 
-                        await System.Threading.Tasks.Task.Delay(10);
-                    _xwebView.HeightRequest = view.ContentHeight;
+                    if (url.StartsWith(tel))
+                    {
+
+                        var uri = Android.Net.Uri.Parse(url);
+                        var intent = new Intent(Intent.ActionView, uri);
+                        intent.SetFlags(ActivityFlags.NewTask);
+                        return true;
+                    }
+                    
                 }
-                base.OnPageFinished(view, url);
-               
+                return false;
             }
         }
 
